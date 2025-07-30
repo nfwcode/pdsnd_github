@@ -27,6 +27,8 @@ def get_filters():
     city = {'1': 'chicago', '2': 'new york city', '3': 'washington'}.get(city)
     print()
 
+# Free your mind Neo
+# All your base are belong to us
  
     # get user input for month (1-6 for january-june, 7 for all)
     month = ''
