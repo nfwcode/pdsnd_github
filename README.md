@@ -4,7 +4,7 @@
 7/29/25
 
 ### Project Title
-Bikeshare Data Analysis with Python
+Bikeshare Data Analysis with Python (v0.1)
 
 ### Description
 This project guides the user through a simple Python program that analyzes 
