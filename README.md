@@ -8,7 +8,7 @@ Bikeshare Data Analysis with Python
 
 ### Description
 This project guides the user through a simple Python program that analyzes 
-data from three Bikeshare data files.
+data from three Bikeshare data files. 
 
 ### Files used
 bikeshare.py
